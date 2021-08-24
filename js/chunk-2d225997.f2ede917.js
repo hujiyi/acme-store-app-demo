@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d225997"],{e4a3:function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v("New Topic")])},c=[],r={name:"dashboard-create-topic",data:function(){return{}}},u=r,o=t("2877"),i=Object(o["a"])(u,a,c,!1,null,null,null);n["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d225997.f2ede917.js.map
